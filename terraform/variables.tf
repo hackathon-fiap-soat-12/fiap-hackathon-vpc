@@ -21,6 +21,6 @@ variable "private_subnets_cidr" {
 
 variable "vpc_name" {
   type = string
-  default = "fiap-hackaton-vpc"
+  default = "fiap-hackathon-vpc"
   description = "Custom VPC name"
 }
